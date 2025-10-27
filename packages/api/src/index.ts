@@ -1,5 +1,9 @@
 export * from './app';
 export * from './cdn';
+/* Config */
+export * from './config';
+/* Services */
+export * from './services';
 /* Auth */
 export * from './auth';
 /* MCP */
